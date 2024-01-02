@@ -1,4 +1,9 @@
-//Tipo de variaveis
+/*Exitems 3 tipos de variaveis 
+ Let, var e const
+ O tipo const impossibilita a alteração, o let e var permitem
+ A diferença dos dois é que o let é no escopo do projeto, o var é global enquanto o let é local
+ Lembrando que o javascript le linha a linha;
+ */
 
     // Tipo de dados - vale lembrar que não é tipado, então uma variavel pode receber o valor que quiser
 //String
